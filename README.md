@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/srushti-ghule/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/srushti-ghule/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/srushti-ghule/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srushti-ghule/Leetcode/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
