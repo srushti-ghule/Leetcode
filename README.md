@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0007-reverse-integer](https://github.com/srushti-ghule/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srushti-ghule/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
