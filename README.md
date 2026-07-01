@@ -10,12 +10,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srushti-ghule/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/srushti-ghule/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srushti-ghule/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,8 +44,17 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
