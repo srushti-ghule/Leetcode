@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/srushti-ghule/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/srushti-ghule/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
@@ -56,5 +57,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/srushti-ghule/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
