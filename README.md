@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srushti-ghule/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/srushti-ghule/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/srushti-ghule/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/srushti-ghule/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
