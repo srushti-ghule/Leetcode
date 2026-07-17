@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/srushti-ghule/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/srushti-ghule/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srushti-ghule/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
@@ -45,11 +46,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/srushti-ghule/Leetcode/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/srushti-ghule/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
