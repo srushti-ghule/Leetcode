@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srushti-ghule/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/srushti-ghule/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/srushti-ghule/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -73,4 +74,8 @@
 | ------- |
 | [0136-single-number](https://github.com/srushti-ghule/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/srushti-ghule/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
