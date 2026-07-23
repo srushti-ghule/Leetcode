@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushti-ghule/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srushti-ghule/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/srushti-ghule/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srushti-ghule/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/srushti-ghule/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srushti-ghule/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/srushti-ghule/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srushti-ghule/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -91,4 +94,12 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srushti-ghule/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srushti-ghule/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
