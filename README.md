@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/srushti-ghule/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srushti-ghule/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srushti-ghule/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/srushti-ghule/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/srushti-ghule/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -79,9 +80,15 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/srushti-ghule/Leetcode/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/srushti-ghule/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
